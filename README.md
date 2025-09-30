@@ -42,6 +42,7 @@ O curso FullCycle 4.0 cobre diversas áreas do desenvolvimento de software. Algu
 │   └── exercicios/
 ...
 └── README.md
+```
 
 ---
 
