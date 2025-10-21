@@ -37,9 +37,9 @@ O curso FullCycle 4.0 cobre diversas áreas do desenvolvimento de software. Algu
 ```bash
 .
 ├── modulo-01-docker-container/
-│   ├── anotacoes/
-│   ├── aulas/
-│   └── exercicios/
+│   ├── codigo-fonte/
+│   ├── resumos/
+│   └── images/
 ...
 └── README.md
 ```
